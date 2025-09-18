@@ -10,3 +10,5 @@ Es importante señalar que, en esta etapa preliminar, no se han incorporado refe
 El proyecto seguirá evolucionando conforme se establezca la estructura metodológica adecuada y se integren fuentes de referencia pertinentes que respalden su fundamentación teórica y práctica.
 
 Link de formulario Google Forms: https://docs.google.com/forms/d/e/1FAIpQLScR2reMD9r6riU-JBFwsBDetGGLM2olJoaFRW5kd95bEAuFWg/viewform?usp=header
+
+Link presentación (PopIa): https://www.popai.pro/ppt-share?shareKey=d30a2b7feaf2006d237eedce168f5d4d5bf76ce09b01caa11a73d6d50ae9a882&utm_source=presentationsharepage
